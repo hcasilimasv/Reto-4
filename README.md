@@ -1,8 +1,8 @@
 # Reto-4
 
-#### Acontinuación veremos los las respuestas a los problemas planteados en el reto 4, usando notebook de python
+#### Acontinuación veremos los las respuestas a los problemas planteados en el reto 4, usando notebook de python, adicional a esto, se adjunto un archivo ipynb con todo el comando para ejecutar en VS Studio Code y probar los comandos.
 
-###### 1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula
+###### 1. Dado un número entero, determinar si ese número corresponde al código ASCII de una vocal minúscula.
 
 ```
 n = int(input("Ingrese un numero entero"))
